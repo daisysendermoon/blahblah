@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">testlogin</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="show_next">Show Next!</string>
+	<string name="welcome">Welcome to Blah!</string>
+	<string name="user_name">User Name</string>
+	<string name="user_pass">Password</string>
+	<string name="login">Login</string>
+	<string name="cancel">Cancel</string>
+</resources>
